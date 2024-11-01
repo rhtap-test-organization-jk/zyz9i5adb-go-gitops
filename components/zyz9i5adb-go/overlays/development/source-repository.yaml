@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: zyz9i5adb-go-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/zyz9i5adb-go
